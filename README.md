@@ -15,12 +15,12 @@ With respect to average fare per ride and average fare per driver, both were hig
 -    The average fare per driver for rural cities was about 40% higher than that of suburban cities and about 235% higher than that of urban cities.  
 -    The average fare per driver for rural cities was only about 12% higher than that of suburban cities and about 41% higher than that of urban cities.
 
-![img1](Resources/City_Type_Comparison_Table.png)
+![img1](Analysis/City_Type_Comparison_Table.png)
 
 
 The graph below of total weekly fares by city type over the period from January through April 2019 shows that urban cities had the highest weekly total fares, followed by suburban cities and then rural cities. All three city types experienced variability in total fares from week to week, with urban cities having the greatest range of total weekly fares (from a low of about $1,662 to a high of about $2,471) and rural cities having the smallest range (from a low of about $68 to a high of about $501). All three city types shared a week of higher total fares in late February, but other high points differed more among city types.
 
-![img2](Resources/Pyber_fare_summary.png)
+![img2](Analysis/Pyber_fare_summary.png)
 
 
 ## Summary
